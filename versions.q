@@ -1,1 +1,9 @@
+r;1.8.7;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
+r;1.7;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
+r;1.6;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
+r;1.5;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
+r;1.4;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
+r;1.3;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
+r;1.2;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
+r;1.1;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
 r;1.0;https://raw.githubusercontent.com/MoHatKnock/ExternalMenu/master/versions.q
